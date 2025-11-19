@@ -96,7 +96,7 @@ Open-Source Dental Printing Community
 
 ## 📬 Contact
 For questions or collaboration:  
-**support@rodinworks.ai** (placeholder—replace anytime)
+**it@pac-dent.com**
 
 ---
 
