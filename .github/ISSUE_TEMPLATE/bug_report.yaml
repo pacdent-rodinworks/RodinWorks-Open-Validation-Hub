@@ -1,0 +1,14 @@
+name: Bug Report
+description: Report an issue with a profile or validation file
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    attributes:
+      label: Describe the issue
+  - type: input
+    attributes:
+      label: Related resin/printer
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
