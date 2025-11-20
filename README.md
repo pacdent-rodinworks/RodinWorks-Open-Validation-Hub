@@ -12,6 +12,10 @@ Our mission:
 
 Whether you're a **dental lab**, **clinic**, **printer user**, or **engineer**, here’s how to start:
 
+### 📐 Standard Test Model
+You can use our standard calibration model for validation:
+[Download Test-Matrix STL](./Templates/Test-Matrix-Cube.stl)
+
 ## ▶️ **If you want to download validated settings**
 1. Go to the `/Resins/` or `/Printers/` folder  
 2. Open the resin/printer you’re interested in  
