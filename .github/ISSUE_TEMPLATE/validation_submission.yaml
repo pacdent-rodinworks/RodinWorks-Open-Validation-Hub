@@ -1,0 +1,26 @@
+name: Validation Submission
+description: Submit a resin-printer validation result
+title: "[Validation] "
+labels: ["validation", "community"]
+body:
+  - type: input
+    attributes:
+      label: Resin Used
+  - type: input
+    attributes:
+      label: Printer Used
+  - type: textarea
+    attributes:
+      label: Summary
+  - type: textarea
+    attributes:
+      label: Parameters
+      description: "Exposure, Layer Height, Temp, Post Cure"
+  - type: textarea
+    attributes:
+      label: Results
+      description: "Success rate, accuracy measurements"
+  - type: textarea
+    attributes:
+      label: Notes
+      description: "Warping, surface finish, failures"
