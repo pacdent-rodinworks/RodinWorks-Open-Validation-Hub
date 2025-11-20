@@ -8,6 +8,45 @@ Our mission:
 
 ---
 
+# 🚀 Quick Start — How to Use This Hub
+
+Whether you're a **dental lab**, **clinic**, **printer user**, or **engineer**, here’s how to start:
+
+## ▶️ **If you want to download validated settings**
+1. Go to the `/Resins/` or `/Printers/` folder  
+2. Open the resin/printer you’re interested in  
+3. Download:
+   - Print profiles (`.sol`, `.pwmx`, `.ini`)
+   - Validation reports (`.md`)
+   - Accuracy tables (`User-Tests.csv`)  
+4. Import the profiles into your slicer or printer  
+5. Follow the notes (recommended exposure, layer height, post-curing, etc.)
+
+## ▶️ **If you want to submit your own validation**
+1. Click **Issues → New Issue**
+2. Select **Validation Submission**
+3. Upload:
+   - Your profile  
+   - Photos  
+   - Results  
+   - STL / CSV  
+4. Maintainers will review and tag it:
+   - **Community Validated**
+   - **Officially Verified** (if manufacturer-reviewed)
+
+OR submit a **Pull Request** adding files to:
+/Resins/<your resin>/
+/Printers/<your printer>/
+
+## ▶️ **If you're a manufacturer / institution**
+You can:
+- Publish official verification data  
+- Upload resin–printer validation packs  
+- Certify community results  
+- Share research-grade test models / files  
+
+---
+
 ## 🔍 What This Project Is
 
 This project blends **Crowd-Sourced** real-world testing with **True Open Source** contributions.
@@ -38,8 +77,6 @@ As long as attribution + share-alike are preserved.
 - Provide manufacturers a community-backed validation channel  
 - Support dental education and CE programs  
 
----
-
 ## 🗂 Repository Structure
 ```
 /Resins/
@@ -63,8 +100,6 @@ README.md
 LICENSE
 ```
 
-
----
 
 ## 🧪 How to Contribute
 
